@@ -1,2 +1,6 @@
-public enum ReservationStatus {
+public enum ReservationStatus{
+    WAITING,
+    PENDING,
+    CANCELED,
+    NONE
 }
